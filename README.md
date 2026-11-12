@@ -17,3 +17,7 @@ engine as an lzma+base85 payload with its unpacker).
 
 Built by an AI coding agent; the build sessions are the submitted
 transcripts. MIT licensed.
+
+Trial-0 (kit env, 16 games): Elo 1326 (7 wins, 0 draws, 9 losses) —
+level with the sunfish baseline's trial-0. Sweeps depth-2/3/4 (6/6).
+Entry is v2 (fixed 100,000-node budget); v3 and v4 also scored 1326.
